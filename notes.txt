@@ -27,3 +27,4 @@ Client:
 evans -r repl
 package pb
 service CategoryService
+call CreateCategory
